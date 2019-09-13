@@ -1,0 +1,1 @@
+@psexec64 -d -i -h -s "c:\totalcmd\TOTALCMD64.EXE"

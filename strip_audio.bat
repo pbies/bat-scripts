@@ -1,0 +1,1 @@
+@ffmpeg -i in.mp4 -c copy -an out.mp4

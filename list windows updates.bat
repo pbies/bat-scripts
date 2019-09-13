@@ -1,0 +1,2 @@
+@wmic qfe get
+@pause

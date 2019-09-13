@@ -1,0 +1,1 @@
+@taskkill /t /f /im "%1"
