@@ -1,1 +1,1 @@
-@echo 
+@<nul set /p =
