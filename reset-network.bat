@@ -1,0 +1,2 @@
+@netcfg -d
+@pause

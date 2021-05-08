@@ -1,0 +1,10 @@
+@start contig64 -q -s c:\$AttrDef
+@start contig64 -q -s c:\$BadClus
+@start contig64 -q -s c:\$Bitmap
+@start contig64 -q -s c:\$Boot
+@start contig64 -q -s c:\$Extend
+@start contig64 -q -s c:\$LogFile
+@start contig64 -q -s c:\$Mft
+@start contig64 -q -s c:\$Secure
+@start contig64 -q -s c:\$UpCase
+@start contig64 -q -s c:\$Volume
